@@ -1,5 +1,5 @@
 ENG //
-GPTK is a universal solution in the form of a minimalistic desktop application for convenient work with neural networks that does not require registration. 
+GPTK - a universal solution in the form of a minimalistic desktop application for convenient work with neural networks that does not require registration. 
 The project is still at the development stage. The functionality will be expanded in the future.
 
 RU //
